@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/InsurancePlatform.Api.props" />
-</Project>
